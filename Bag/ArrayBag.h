@@ -1,6 +1,7 @@
 #pragma once
 #include "BagInterface.h"
 
+//Change
 template <class ItemType>
 class ArrayBag: public BagInterface<ItemType>
 {
